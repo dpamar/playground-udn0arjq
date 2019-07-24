@@ -7,7 +7,7 @@ Welcome to this new playground about the BF language. Make sure you already read
 * [BrainFuck part 4 - Advanced maths](https://www.codingame.com/playgrounds/50446/brainfuck-part-3---write-a-bf-interpreter-in-bf/welcome)
 * [BrainFuck part 5 - Math sequences](https://www.codingame.com/playgrounds/50478/brainfuck-part-5---math-sequences/welcome)
 * [BrainFuck part 6 - 16-bit integers](https://www.codingame.com/playgrounds/50482/brainfuck-part-6---16-bit-integers/be-smart)
-* [BrainFuck part 7 - Quine (+ some non-BF quine theory)]()
+* [BrainFuck part 7 - Quine (+ some non-BF quine theory)](https://www.codingame.com/playgrounds/50485/brainfuck-part-7---quine-some-non-bf-quine-theory/welcome)
 
 playgrounds if you didn't already !
 
