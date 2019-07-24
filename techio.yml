@@ -2,3 +2,12 @@ title: Custom Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Structure
+  statement: markdowns/structure.md
+- title: CS template
+  statement: markdowns/cs_template.md
+- title: Javascript template
+  statement: markdowns/js_template.md
+- title: BF template
+  statement: markdowns/bf_template.md
+
