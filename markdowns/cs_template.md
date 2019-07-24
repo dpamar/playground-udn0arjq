@@ -33,12 +33,12 @@ class MultiQuine
             case "CS":
                 foreach (int i in new int[] {/** CS headers block goes here **/}) Console.Write((char)i);
                 foreach (String l in new String[] { "BF", "CS", "JS" })
-                    Console.WriteLine("        data.Add(\"" + l + "\", new int[]{" + String.Join(",", data[l]) + "});");
+                    Console.Write("        data.Add(\"" + l + "\", new int[]{" + String.Join(",", data[l]) + "});"+(char)10);
                 break;
             case "JS":
                 foreach (int i in new int[] {/** JS headers block goes here **/}) Console.Write((char)i);
                 foreach (String l in new String[] { "BF", "CS", "JS" })
-                    Console.WriteLine(" data['" + l + "']=[" + String.Join(",", data[l]) + "];");
+                    Console.Write(" data['" + l + "']=[" + String.Join(",", data[l]) + "];"+(char)10);
                 break;
         }
         foreach (int i in data[language]) Console.Write((char)i);
