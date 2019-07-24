@@ -10,4 +10,6 @@ plan:
   statement: markdowns/js_template.md
 - title: BF template
   statement: markdowns/bf_template.md
+- title: Finalize the multiquine
+  statement: markdowns/finalizing.md
 
